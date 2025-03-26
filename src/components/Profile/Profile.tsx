@@ -16,12 +16,12 @@ interface ProfileData {
  */
 const profileData: ProfileData = {
   typewriterName: [
-    "Heyo peeps, I'm Will.",
+    "Heyo peeps, I'm Giulia.",
     "I love to learn.",
-    "William De Rocco :)",
+    "Giulia Saraceni :)",
   ],
   graduatingClass: 2025,
-  majorMinor: "B.A. in Computer Science, Minor in Economics",
+  majorMinor: "B.S. in Advertising, Minor in Economics",
   websiteHref: "https://github.com/wderocco8",
   imgSrc: "/images/profile/profile.jpeg",
   currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
