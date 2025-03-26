@@ -11,7 +11,7 @@ interface ProfileData {
 }
 
 /**
- * TODO: replace each `typewriterName`, `graduatingClass`, `majorMinor`,
+ * TODO: replace each `Giulia`, `2027`, `Advertising, Business`,
  * `websiteHref`, and `imgSrc` with your personal information.
  */
 const profileData: ProfileData = {
@@ -21,7 +21,7 @@ const profileData: ProfileData = {
     "Giulia Saraceni :)",
   ],
   graduatingClass: 2025,
-  majorMinor: "B.S. in Advertising, Minor in Economics",
+  majorMinor: "B.S. in Advertising, Minor in Business",
   websiteHref: "https://github.com/wderocco8",
   imgSrc: "/images/profile/profile.jpeg",
   currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
